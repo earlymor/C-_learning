@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
-int main(){
-    cout<< "helloworld" <<endl;
-    return 0;
+#include "swap.h"
+
+int main() {
+  int a = 10;
+  int b = 20;
+  swap(a, b);
+  return 0;
 }
