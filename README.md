@@ -1,5 +1,9 @@
 # CPPlearning
 
-1.compile
+一、compile
 
-2.func
+二、func
+
+三、class
+
+1.encapsulation(封装)
