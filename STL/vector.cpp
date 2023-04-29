@@ -52,7 +52,7 @@ void test2(){
     v.push_back(p3);
     v.push_back(p4);
 
-    for(vector<Person>::iterator it=v.begin();it!=v.end();it++){
+    for(vector<Person>::iterator it=v.begin();it!=v.end();it++){//循环打印
         cout << "age:" << it->m_age << "\t" << "name:" << it->m_name <<endl;
         // cout << "age:" << (*it).m_age << "\t" << "name:" << (*it).m_name <<endl;
 
