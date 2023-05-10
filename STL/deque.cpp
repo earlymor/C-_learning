@@ -1,4 +1,5 @@
 // CPP Program to implement Deque in STL
+/* double ended queue（双端队列） */
 #include <deque>
 #include <iostream>
 
@@ -13,8 +14,8 @@ void showdq(deque<int> g) {
 
 int main() {
     deque<int> gquiz;
-    gquiz.push_back(10);
-    gquiz.push_front(20);
+    gquiz.push_back(10);   // 尾插
+    gquiz.push_front(20);  // 头插
     gquiz.push_back(30);
     gquiz.push_front(15);
     cout << "The deque gquiz is : ";
