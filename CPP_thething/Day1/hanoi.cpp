@@ -20,6 +20,6 @@ int main() {
     cin >> numDisks;
     cout << "盘子总数：" << numDisks << endl;
     hanoi(numDisks, 'A', 'B', 'C');
-    cout << "count :" << count << endl;
+    cout << "count :" << ::count << endl;
     return 0;
 }
