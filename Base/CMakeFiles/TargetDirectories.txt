@@ -1,0 +1,3 @@
+/home/earlymor/文档/vscode/CPP_learning/Base/CMakeFiles/reference.dir
+/home/earlymor/文档/vscode/CPP_learning/Base/CMakeFiles/edit_cache.dir
+/home/earlymor/文档/vscode/CPP_learning/Base/CMakeFiles/rebuild_cache.dir
